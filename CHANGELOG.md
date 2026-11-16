@@ -2,6 +2,10 @@
 
 Each entry is one version of this template. Read it before you apply an update from Railway: breaking changes come first.
 
+## Unreleased (2026-11-16)
+
+- README: Deploy on Railway button for the published template `dragonfly-3`. No change to what gets deployed.
+
 ## 2.1.0 (2026-11-16)
 
 - First release: Dragonfly v2.1.0 (`ghcr.io/dragonflydb/dragonfly:v2.1.0@sha256:94891bb22ce2fb0f7a5a3ff1bb3b2fbbc5830e2523293e47723d87fa3e5b1184`).

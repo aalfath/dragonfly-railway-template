@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/dragonfly-3?utm_medium=integration&utm_source=button&utm_campaign=dragonfly)
+
 # Dragonfly on Railway
 
 A one-click [Railway](https://railway.com) template for [Dragonfly](https://www.dragonflydb.io), the Redis- and Memcached-compatible in-memory data store.
