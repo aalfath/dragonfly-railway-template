@@ -5,7 +5,6 @@ FROM ghcr.io/dragonflydb/dragonfly:v2.1.0@sha256:94891bb22ce2fb0f7a5a3ff1bb3b2fb
 COPY --chmod=755 start.sh /usr/local/bin/railway-start.sh
 
 EXPOSE 6379
-VOLUME /data
 WORKDIR /data
 
 ENTRYPOINT ["/usr/bin/tini", "--", "/usr/local/bin/railway-start.sh"]
